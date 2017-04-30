@@ -14,13 +14,6 @@ A classic optimization problem is the Knapsack problem. What is a Knapsack probl
 
 Do you see the Knapsack problem now? The objective, highest value; and constraints would be the weight. The lecture also mentioned that there are two different situations here, the discrete version versus the continuous version. The discrete version is more like what we mentioned above, the continuous version however, is more like a diet meal plan. If your daily calories consumption is 1500 calories, how many Big Macs should you eat for lunch so that you won't have to eat only salad for dinner? Professor Guttag said that this is his least favorite knapsack problem and I strongly agree. I used to eat two big fat donuts a day and my blood sugar is through the roof. 
 
-<head>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
-});
-</script>
-<script type="text/javascript" async src="path-to-mathjax/MathJax.js?config=TeX-AMS_CHTML"></script>
-</head>
+
 
 $$y = mx + b$$
