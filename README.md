@@ -16,4 +16,4 @@ Do you see the Knapsack problem now? The objective, highest value; and constrain
 
 
 
-$$y = mx + b$$
+$y = mx + b$
