@@ -20,4 +20,4 @@ $$\sum_{n-1}^{n}V[i]*I[i].\text{value}$$
 
 subject to the constriant that
 
-$$\sum_{n-1}^{n}V[i]*I[i].\text{value}leq{w}$$
+$$\sum_{n-1}^{n}V[i]*I[i].\text{value}\leq{w}$$
